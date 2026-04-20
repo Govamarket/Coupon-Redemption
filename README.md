@@ -68,12 +68,10 @@ Content-Type: application/json
 
  **Screenshot: Intercepted Request**
 
-```
 <div>
 <img width="1366" height="654" alt="interception" src="https://github.com/user-attachments/assets/6f42e127-807d-4172-94f2-5b57d073323b" />
 
 </div>
-```
 
 ---
 
@@ -83,7 +81,7 @@ The request was sent to Repeater to confirm normal behavior.
 
  **Screenshot: Repeater Request & Response**
 
-```
+
 <div>
 <img width="1366" height="653" alt="intercept post" src="https://github.com/user-attachments/assets/bac422f5-eb70-4906-8aa8-154147f139c2" />
 
@@ -227,4 +225,3 @@ Clinton Chidera
 Web Security Learner | Aspiring Penetration Tester
 
 ---
-<img width="920" height="486" alt="user account" src="https://github.com/user-attachments/assets/2edcaaf2-010a-4c69-a169-d99c4835c3b9" />
