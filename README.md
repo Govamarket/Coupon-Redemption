@@ -65,11 +65,6 @@ Content-Type: application/json
 
 {"couponCode":"WELCOME50"}
 
- **Screenshot: Intercepted Request**
-
-<div>
-</div>
-
 ---
 
 ###  Step 2: Send to Repeater
