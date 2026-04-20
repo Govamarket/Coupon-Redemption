@@ -68,8 +68,6 @@ Content-Type: application/json
  **Screenshot: Intercepted Request**
 
 <div>
-<img width="1366" height="654" alt="interception" src="https://github.com/user-attachments/assets/6f42e127-807d-4172-94f2-5b57d073323b" />
-
 </div>
 
 ---
@@ -77,13 +75,6 @@ Content-Type: application/json
 ###  Step 2: Send to Repeater
 
 The request was sent to Repeater to confirm normal behavior.
-
- **Screenshot: Repeater Request & Response**
-
-<div>
-<img width="1366" height="653" alt="intercept post" src="https://github.com/user-attachments/assets/bac422f5-eb70-4906-8aa8-154147f139c2" />
-
-</div>
 
 
  Result:
