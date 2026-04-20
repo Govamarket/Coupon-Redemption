@@ -64,7 +64,6 @@ Host: localhost
 Content-Type: application/json
 
 {"couponCode":"WELCOME50"}
-```
 
  **Screenshot: Intercepted Request**
 
@@ -81,12 +80,11 @@ The request was sent to Repeater to confirm normal behavior.
 
  **Screenshot: Repeater Request & Response**
 
-
 <div>
 <img width="1366" height="653" alt="intercept post" src="https://github.com/user-attachments/assets/bac422f5-eb70-4906-8aa8-154147f139c2" />
 
 </div>
-```
+
 
  Result:
 
@@ -104,21 +102,19 @@ Used Intruder with multiple payloads:
 
  **Screenshot: Intruder Attack Configuration**
 
-```
 <div>
 <img width="1366" height="692" alt="turbo" src="https://github.com/user-attachments/assets/76b614b9-1de7-4666-b481-c57be3fa9f54" />
 
 </div>
-```
 
  **Screenshot: Intruder Results**
 
-```
+
 <div>
 <img width="1366" height="637" alt="turbo py" src="https://github.com/user-attachments/assets/0a009fb3-1c94-4005-b08f-dbe511e62ec4" />
 
 </div>
-```
+
 
  Result:
 
@@ -136,9 +132,11 @@ Used the lab’s built-in **Rapid Fire Attack** feature to send simultaneous req
 
  **Screenshot: Rapid Fire Attack Panel**
 
-```
-/images/rapid-fire.png
-```
+
+<div>
+<img width="940" height="452" alt="race at" src="https://github.com/user-attachments/assets/81d0163a-f201-4e44-8136-ef8ad43bccb6" />
+
+<div>
 
 ---
 
@@ -152,11 +150,10 @@ GET /api/race-status
 
  **Screenshot: Race Status Response**
 
-```
 <div>
+<img width="1366" height="645" alt="suc repeater" src="https://github.com/user-attachments/assets/094ab95a-b7b2-4a8c-babe-a5a9846f2532" />
 
 </div>
-```
 
 ---
 
@@ -168,11 +165,10 @@ GET /api/race-status
 
  **Screenshot: Final Balance UI**
 
-```
 <div>
-
+<img width="979" height="487" alt="increase act" src="https://github.com/user-attachments/assets/30c28efa-d279-47a2-8275-94e37ceb9acf" />
 </div>
-```
+
 
 ---
 
