@@ -146,7 +146,7 @@ GET /api/race-status
 ##  Results
 
 * Initial Balance: `$100`
-* Final Balance: `$600`
+* Final Balance: `$1600`
 * Total Redemptions: `10`
 
  **Screenshot: Final Balance UI**
