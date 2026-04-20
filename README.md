@@ -58,7 +58,7 @@ This leads to a **Time-of-Check to Time-of-Use (TOCTOU)** race condition.
 
 Captured the coupon redemption request using Burp Proxy:
 
-```http
+http
 POST /api/redeem-coupon HTTP/1.1
 Host: localhost
 Content-Type: application/json
@@ -130,9 +130,9 @@ Used the lab’s built-in **Rapid Fire Attack** feature to send simultaneous req
 
 Checked the result via API:
 
-```http
+http
 GET /api/race-status
-```
+
 
  **Screenshot: Race Status Response**
 
@@ -205,5 +205,3 @@ This vulnerability highlights how improper handling of concurrent requests can b
 
 Clinton Chidera
 Web Security Learner | Aspiring Penetration Tester
-
----
