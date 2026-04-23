@@ -203,5 +203,4 @@ This vulnerability highlights how improper handling of concurrent requests can b
 
 ##  Author
 
-Clinton Chidera
-Web Security Learner | Aspiring Penetration Tester
+*Written by [Possible (@SIEM Latency)](https://x.com/SIEM_Latency)) — The Cyber Lab Journal*
